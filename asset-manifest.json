@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e7637ff.css",
+    "main.js": "/static/js/main.3d6d72e4.js",
+    "static/media/travel.png": "/static/media/travel.3f1e703c327327f3a246.png",
+    "static/media/native-jobs.png": "/static/media/native-jobs.aefeaca3698579f1e739.png",
+    "static/media/blog-1.svg": "/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
+    "static/media/cryptoverse.png": "/static/media/cryptoverse.9082016cd20b7f1e0ae0.png",
+    "static/media/resume.pdf": "/static/media/resume.ba202811364d86a2dbfe.pdf",
+    "static/media/avatar-3.svg": "/static/media/avatar-3.5bf46e6d1530bd73b02b567041e76e4d.svg",
+    "static/media/avatar-4.svg": "/static/media/avatar-4.1859fab5f65d2a41fed620abbb0170e5.svg",
+    "static/media/avatar-1.svg": "/static/media/avatar-1.09f66d2157a4760a7fb5d009f6ce19dd.svg",
+    "static/media/avatar-2.svg": "/static/media/avatar-2.34202b5e28f05c3b37d92b2f73632aa4.svg",
+    "static/media/service-3.svg": "/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
+    "static/media/service-2.svg": "/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
+    "static/media/service-1.svg": "/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
+    "static/media/logo.svg": "/static/media/logo.bdf08059527dc09e6d4f42d7c9d78b22.svg",
+    "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "static/media/light-logo.svg": "/static/media/light-logo.533c20f31bf65c1c1d8c3a6d407f5304.svg",
+    "index.html": "/index.html",
+    "main.0e7637ff.css.map": "/static/css/main.0e7637ff.css.map",
+    "main.3d6d72e4.js.map": "/static/js/main.3d6d72e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e7637ff.css",
+    "static/js/main.3d6d72e4.js"
+  ]
+}
